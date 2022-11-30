@@ -1,0 +1,11 @@
+.heading{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+.btn{
+  width: 100%;
+  font-size: 1.5rem;
+}
